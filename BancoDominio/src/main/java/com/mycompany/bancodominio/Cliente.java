@@ -9,5 +9,5 @@ package com.mycompany.bancodominio;
  * @author rober
  */
 public class Cliente {
-    
+    System.out.print("Hola");
 }
